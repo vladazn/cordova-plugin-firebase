@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/vladazn/cordova-plugin-firebase"
   },
-  "name": "@candywings/cordova-plugin-firebase",
+  "name": "@candywings/cordova-plugin-firebase-cw",
   "version": "1.0.0",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
